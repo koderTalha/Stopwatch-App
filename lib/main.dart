@@ -143,8 +143,7 @@ class _HomeAppState extends State<HomeApp> {
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: [
                           Text(
-                            "Lap n${index +1}",
-
+                            "Lap n°${index + 1}",
                             style:TextStyle(
                               color: Colors.white,
                               fontSize: 16,
